@@ -1,0 +1,16 @@
+{
+    "refacciones": [
+      {
+        "id": "f319",
+        "nombre": "Aceite",
+        "categoria": "Transmision",
+        "precio": "456"
+      },
+      {
+        "id": "7212",
+        "nombre": "Líquido 320 ml",
+        "categoria": "Frenos",
+        "precio": "199"
+      }
+    ]
+  }
